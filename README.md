@@ -18,7 +18,7 @@ This was my second project with HTML and CSS, but as I hadn't practiced web deve
 Here is a look at the original homepage: <br>
 ![Original Home Page Screenshot](./images/ogscreenshot.jpg) <br>
 Here is a look at one of the original recipe pages: <br>
-![Original Recipe Page Screenshot](./images/ogscreenshot.jpg)<br><br>
+![Original Recipe Page Screenshot](./images/ogscreenshot2.jpg)<br><br>
 Here is a look at the current homepage: <br>
 ![Current Home Page Screenshot](#) <br> 
 Here is a look at one of the current recipe pages: <br> 
